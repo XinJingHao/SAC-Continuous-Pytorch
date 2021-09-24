@@ -1,4 +1,0 @@
-If you want to use any trained model, just copy the XXX.pth files to '\model'
-
-
-The already existed 'sac_actor2150000.pth' and 'sac_q_critic2150000.pth' under '\model' is the model of BipedalWalkerHardcore-v3.
