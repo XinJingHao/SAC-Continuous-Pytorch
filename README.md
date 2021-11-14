@@ -34,3 +34,5 @@ You can use the tensorboard to visualize the training curve. History training cu
 For more details of Hyperparameter Setting, please check 'main.py'
 ### Reference
 [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf)
+
+### Other RL algorithms by Pytorch can be found [here](https://github.com/XinJingHao/RL-Algorithms-by-Pytorch).
