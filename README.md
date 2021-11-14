@@ -26,6 +26,8 @@ The --EnvIdex can be set to be 0~5, where
 '--EnvIdex 3' for 'Pendulum-v0'  
 '--EnvIdex 4' for 'Humanoid-v2'  
 '--EnvIdex 5' for 'HalfCheetah-v2' 
+
+P.S. if you want train on 'Humanoid-v2' or 'HalfCheetah-v2', you need to install **MuJoCo** first.
 ### Play with trained model
 run **'python main.py --EnvIdex 1 --write False --render True --Loadmodel True --ModelIdex 2800000'**, which will render the 'BipedalWalkerHardcore-v3'.  
 ### Visualize the training curve
