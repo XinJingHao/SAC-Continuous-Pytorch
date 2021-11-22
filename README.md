@@ -12,8 +12,9 @@ The gif below is a short record of the performance on BipedalWalkerHardcore-v3:
 gym==0.18.3  
 box2d==2.3.10  
 numpy==1.21.2  
-pytorch==1.8.1 
-tensorboard==2.5.0
+pytorch==1.8.1  
+tensorboard==2.5.0 
+
 
 ## How to use my code
 ### Train from scratch
